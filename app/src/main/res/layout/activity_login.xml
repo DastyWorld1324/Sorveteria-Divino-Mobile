@@ -95,10 +95,10 @@
         android:layout_height="2000dp"
         android:rotation="-30"
         android:src="@drawable/wave"
-        tools:layout_editor_absoluteX="-600dp"
-        tools:layout_editor_absoluteY="-300dp"
+        android:translationZ="1dp"
         app:layout_constraintWidth_max="wrap"
         tools:ignore="MissingConstraints"
-        android:translationZ="1dp"/>
+        tools:layout_editor_absoluteX="-589dp"
+        tools:layout_editor_absoluteY="-295dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
